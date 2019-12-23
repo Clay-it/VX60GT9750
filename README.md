@@ -1,8 +1,9 @@
 #MARS15-VX60GT9750-I7-9750H
 ======
-hackintosh mojave 10.14.6<br>
+
 #本机配置
 ---
+Mojave: 10.14.6>
 CPU：Intel I7 9750H>
 WIFI网卡：原网卡Intel无解>
 BCM94360CS2 + ngff转接>
