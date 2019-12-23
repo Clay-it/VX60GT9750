@@ -12,8 +12,7 @@
  * 主硬盘              英特尔 SSDPEKNW512G8 ( 512 GB / 固态硬盘 )  
  * 显示器              NCP0042 ( 15.5 英寸  )  
  * 声卡                瑞昱  @ 英特尔 High Definition Audio 控制器  
- * 网卡                博通 Broadcom 802.11ac Network Adapter / 苹果  
-   *** WIFI网卡：原网卡Intel无解  BCM94360CS2 + ngff转接  
+ * 网卡                博通 Broadcom 802.11ac Network Adapter / 苹果(WIFI网卡：原网卡Intel无解  BCM94360CS2 + ngff转接 )  
 
 #已知问题
 ---
@@ -22,4 +21,4 @@
   * 睡眠黑屏  
   * 读卡器无法使用  
   * 独显无解  
-  
+  * 声卡AppleAlc 驱动注入ID为27 偶尔开机会无驱动，未解决  
