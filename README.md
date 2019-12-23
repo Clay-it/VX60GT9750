@@ -1,6 +1,7 @@
 #MARS15-VX60GT9750-I7-9750H
 ======
-
+![Image text](https://github.com/Clay-it/VX60GT9750/blob/master/img/WX20191223-115153.png)  
+![Image text](https://github.com/Clay-it/VX60GT9750/blob/master/img/WX20191223-115451.png)  
 #本机配置
 ---
  * Mojave: 10.14.6  
