@@ -1,6 +1,6 @@
 #MARS15-VX60GT9750-I7-9750H
 ======
-hackintosh mojave 10.14.6\<br>
+hackintosh mojave 10.14.6<br>
 #本机配置
 ---
 CPU：Intel I7 9750H\<br>
