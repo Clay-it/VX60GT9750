@@ -1,7 +1,5 @@
 #MARS15-VX60GT9750-I7-9750H
 ======
-![Image text](https://raw.githubusercontent.com/Clay-it/VX60GT9750/master/img/WX20191223-115153.png)  
-![Image text](https://raw.githubusercontent.com/Clay-it/VX60GT9750/master/img/WX20191223-115451.png)  
 #本机配置
 ---
  * Mojave: 10.14.6  
@@ -23,3 +21,8 @@
   * 读卡器无法使用  
   * 独显无解  
   * 声卡AppleAlc 驱动注入ID为27 偶尔开机会无驱动，未解决  
+  
+#PIC
+---
+![Image text](https://raw.githubusercontent.com/Clay-it/VX60GT9750/master/img/WX20191223-115153.png)  
+![Image text](https://raw.githubusercontent.com/Clay-it/VX60GT9750/master/img/WX20191223-115451.png)  
