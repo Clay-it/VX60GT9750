@@ -1,18 +1,17 @@
-MARS15-VX60GT9750-I7-9750H
+#MARS15-VX60GT9750-I7-9750H
 ======
-hackintosh mojave 10.14.6
+hackintosh mojave 10.14.6\<br>
 #本机配置
 ---
-CPU：Intel I7 9750H
-WIFI网卡：原网卡Intel无解，BCM94360CS2 + ngff转接
+CPU：Intel I7 9750H\<br>
+WIFI网卡：原网卡Intel无解\<br>
+BCM94360CS2 + ngff转接\<br>
 
-#使用情况
+#已知问题
 ---
-除了下面问题以外，其他全部都能用！
-  已知问题
-  HDMI无法工作
-  USB2.0/USB3.0/TYPE-C正常
-  睡眠黑屏
-  读卡器无法使用
-  独显无解
+  HDMI无法工作\<br>
+  USB2.0/USB3.0/TYPE-C正常\<br>
+  睡眠黑屏\<br>
+  读卡器无法使用\<br>
+  独显无解\<br>
   
